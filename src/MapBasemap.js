@@ -30,7 +30,7 @@ class MapComponent extends React.Component {
       osm: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       hot: "https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
       dark:"https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png",
-      cycle: "https://dev.{s}.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png"
+      
     }
 
     return (
